@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.koloss.cults</groupId>
-    <artifactId>rise-of-cults</artifactId>
+    <groupId>com.github.koloss</groupId>
+    <artifactId>arcane-ascension</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Rise Of Cults plugin</name>
+    <name>Arcane Ascension plugin</name>
     <description>Magic-based Minecraft plugin for enhancing user experience</description>
 
     <properties>

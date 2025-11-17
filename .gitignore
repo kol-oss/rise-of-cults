@@ -1,5 +1,6 @@
 # IntelliJ Idea
 .idea
+arcane-ascension.iml
 
 # Compiled class file
 *.class
