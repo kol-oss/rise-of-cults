@@ -1,0 +1,4 @@
+name: rise-of-cults
+version: '1.0-SNAPSHOT'
+main: com.github.koloss.cults.RiseOfCultsPlugin
+api-version: '1.21'
